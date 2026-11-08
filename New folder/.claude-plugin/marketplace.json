@@ -1,0 +1,17 @@
+{
+  "name": "omniroute-claude-plugin",
+  "description": "Self-hosted marketplace for the OmniRoute Claude Code plugin",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Enlace Enterprises",
+    "email": "enlace.enterprises@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "omniroute",
+      "source": ".",
+      "description": "Connects Claude Code to a running OmniRoute AI gateway over MCP.",
+      "version": "1.0.0"
+    }
+  ]
+}
