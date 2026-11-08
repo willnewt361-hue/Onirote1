@@ -8,7 +8,7 @@
     "email": "enlace.enterprises@gmail.com"
   },
   "homepage": "https://github.com/diegosouzapw/OmniRoute",
-  "repository": "https://github.com/willnewt361-hue/Onirote1/omniroute-claude-plugin",
+  "repository": "https://github.com/willnewt361-hue/Onirote1/.claude-plugin",
   "license": "MIT",
   "keywords": ["omniroute", "mcp", "ai-gateway", "llm-routing", "claude-code"],
   "mcpServers": {
